@@ -1,2 +1,4 @@
 # banco de dados
- Crud
+ Crud guit
+ 
+iniciando
