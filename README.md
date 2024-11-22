@@ -1,6 +1,2 @@
-# banco de dados
- Crud guit
- 
-iniciando
-
-AP
+# meu_projeto
+ projeto pra facudade
